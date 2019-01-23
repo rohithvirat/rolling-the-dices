@@ -3,7 +3,7 @@ import tkinter as tk
 min = 1
 max = 6
 
-roll_again = "yes"
+roll_again = 1
 
 while roll_again == 1:
    
